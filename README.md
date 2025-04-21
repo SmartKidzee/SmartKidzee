@@ -7,19 +7,21 @@
 
 ## 🧑‍💻 About Me  
 - 🎓 First-year **Computer Science & Engineering (AI & ML)** student at **NIE Mysuru**  
-- 🌐 Building my **portfolio website** → [iamshreyas.live](https://iamshreyas.live)  
-- 🛠 Currently learning **AI, ML, and Web Development**  
-- 📹 Passionate about making **tech videos**  
-- 🍏 Hardcore **Apple fanboy**  
+- 🌐 Building futuristic tools like **Talk2Job** and my [portfolio site](https://iamshreyas.live)  
+- 🛠 Passionate about **AI, ML, and Modern Web Development**  
+- 📹 Working on launching my **Tech YouTube Channel**  
+- 🍏 Hardcore **Apple fanboy** with a love for clean UI  
 
 ---
 
 ## 🔥 My Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)  
 
 ---
@@ -32,8 +34,9 @@
 ---
 
 ## 📌 Projects & Work  
-- 🎨 **Portfolio Website** – [iamshreyas.live](https://iamshreyas.live)
-- 🎤 **Tech YouTube Videos** – Coming soon!  
+- 🚀 **Talk2Job** – [talk2job.vercel.app](https://talk2job.vercel.app) → AI-powered voice interview prep platform  
+- 🎨 **Portfolio Website** – [iamshreyas.live](https://iamshreyas.live) → Modern 3D-style dev portfolio  
+- 🎤 **Tech YouTube Channel** – Coming soon with 🔥 content on Apple, AI & dev tools  
 
 ---
 
