@@ -22,6 +22,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)  
 
 ---
@@ -33,11 +34,21 @@
 
 ---
 
+## 🌱 Contributions  
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SmartKidzee&theme=react-dark)  
+
+---
+
+## 💬 Dev Quote  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+
+---
+
 ## 📌 Projects & Work  
 - 🚀 **Talk2Job** – [talk2job.vercel.app](https://talk2job.vercel.app) → AI-powered voice interview prep platform  
 - 🎨 **Portfolio Website** – [iamshreyas.live](https://iamshreyas.live) → Modern 3D-style dev portfolio  
-- 🎤 **Tech YouTube Channel** – Coming soon with 🔥 content on Apple, AI & dev tools  
-
+- 🎤 **Tech YouTube Channel** – Coming soon with 🔥 content on Apple, AI & dev tools
+  
 ---
 
 ## 📫 Connect With Me  
