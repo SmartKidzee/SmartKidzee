@@ -7,10 +7,11 @@
 
 ## 🧑‍💻 About Me  
 - 🎓 First-year **Computer Science & Engineering (AI & ML)** student at **NIE Mysuru**  
-- 🌐 Building futuristic tools like **Talk2Job** and my [portfolio site](https://iamshreyas.live)  
-- 🛠 Passionate about **AI, ML, and Modern Web Development**  
-- 📹 Working on launching my **Tech YouTube Channel**  
-- 🍏 Hardcore **Apple fanboy** with a love for clean UI  
+- 🌐 Building my **portfolio** → [iamshreyas.live](https://iamshreyas.live)  
+- 🧠 Creator of **Talk2Job** – [talk2job.vercel.app](https://talk2job.vercel.app)  
+- 🛠 Currently learning **AI, ML, and Web Development**  
+- 📹 Passionate about making **tech videos**  
+- 🍏 Hardcore **Apple fanboy**
 
 ---
 
@@ -25,30 +26,46 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)  
 
+
 ---
 
 ## 📊 GitHub Stats  
-![Shreyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=SmartKidzee&color=blue)  
-
----
-
-## 🌱 Contributions  
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SmartKidzee&theme=react-dark)  
-
----
-
-## 💬 Dev Quote  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&theme=radical" width="49%" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SmartKidzee&theme=react-dark" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SmartKidzee&color=blue" alt="Profile views" />
+</p>
 
 ---
 
 ## 📌 Projects & Work  
-- 🚀 **Talk2Job** – [talk2job.vercel.app](https://talk2job.vercel.app) → AI-powered voice interview prep platform  
-- 🎨 **Portfolio Website** – [iamshreyas.live](https://iamshreyas.live) → Modern 3D-style dev portfolio  
-- 🎤 **Tech YouTube Channel** – Coming soon with 🔥 content on Apple, AI & dev tools
-  
+- 🧠 **Talk2Job – Voice-Based AI Interview Prep**  
+  Live: [talk2job.vercel.app](https://talk2job.vercel.app)  
+  GitHub: [github.com/SmartKidzee/talk2job](https://github.com/SmartKidzee/talk2job)
+
+- 🌐 **Portfolio Website**  
+  Live: [iamshreyas.live](https://iamshreyas.live)  
+  GitHub: [github.com/SmartKidzee/portfolio](https://github.com/SmartKidzee/portfolio)
+
+---
+
+## 💬 Dev Quotes  
+> “The only way to learn a new programming language is by writing programs in it.” — Dennis Ritchie  
+>  
+> “First, solve the problem. Then, write the code.” — John Johnson  
+>  
+> “Simplicity is the soul of efficiency.” — Austin Freeman
+
+---
+
+## 🌱 Contributions  
+[![Shreyas' GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SmartKidzee&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 📫 Connect With Me  
