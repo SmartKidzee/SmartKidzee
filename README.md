@@ -35,9 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&theme=radical" width="49%" />
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SmartKidzee&theme=react-dark" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SmartKidzee&color=blue" alt="Profile views" />
 </p>
 
