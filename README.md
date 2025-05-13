@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=SmartKidzee&theme=tokyonight" alt="SmartKidzee's Streak" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight" alt="SmartKidzee's Streak" />
 </div>
 
 <div align="center">
