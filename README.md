@@ -47,7 +47,7 @@
 
 - 🌐 **Portfolio Website**  
   Live: [iamshreyas.live](https://iamshreyas.live)  
-  GitHub: [github.com/SmartKidzee/portfolio](https://github.com/SmartKidzee/portfolio)
+  GitHub: [github.com/SmartKidzee/new_portfolio](https://github.com/SmartKidzee/new_portfolio)
 
 ---
 
