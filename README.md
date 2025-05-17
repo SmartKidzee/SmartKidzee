@@ -174,5 +174,5 @@
   
   **Thanks for visiting my profile! Have a great day!** 😄
   
-![Snake animation](https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg)
 </div>
