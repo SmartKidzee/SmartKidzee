@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer;Full+Stack+Developer;Tech+Content+Creator;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Tech+Content+Creator;Problem+Solver)](https://git.io/typing-svg)
 
   <img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views badge" />
 
@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 - 🎓 **Computer Science & Engineering (AI & ML)** at **NIE Mysuru**
-- 🚀 Creator of **[Talk2Job](https://talk2job.vercel.app)** - AI-Voice-powered interview preparation platform
+- 🚀 Creator of **[Talk2Job](https://talk2job.vercel.app)** - Voice-powered-AI interview preparation platform
 - 💻 Full-stack developer with a passion for **clean code** and **innovative UIs**
 - 🧪 Experimenting with **LLMs**, **Neural Networks**, and **Machine Learning**
 - 🎥 Tech content creator focusing on **coding tutorials** and **AI/ML breakdowns**
@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
