@@ -10,6 +10,7 @@
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smartshreyas)
   [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SmartKidzee)
   [<img src="https://img.shields.io/badge/Talk2Job-FF5757?style=for-the-badge&logo=internetcomputer&logoColor=white" />](https://talk2job.vercel.app)
+  [<img src="https://img.shields.io/badge/Perplexity-Campus%20Partner-1F75FE?style=for-the-badge&logo=perplexity&logoColor=white" />](https://www.perplexity.ai/studentonboarding)
 
 </div>
 
@@ -19,6 +20,7 @@
 
 - 🎓 **Computer Science & Engineering (AI & ML)** at **NIE Mysuru**
 - 🚀 Creator of **[Talk2Job](https://talk2job.vercel.app)** - Voice-powered-AI interview preparation platform
+- 🌍 Selected as a **Perplexity Campus Partner (Fall 2025)** – representing NIE Mysuru and building AI awareness in my community
 - 💻 Full-stack developer with a passion for **clean code** and **innovative UIs**
 - 🧪 Experimenting with **LLMs**, **Neural Networks**, and **Machine Learning**
 - 🎥 Tech content creator focusing on **coding tutorials** and **AI/ML breakdowns**
@@ -119,7 +121,7 @@
 - 💻 **Frontend Engineering** – Building modern UIs with React, Next.js, Tailwind, and TypeScript  
 - 🔥 **Firebase & Serverless** – Implementing backend-free features like auth, likes, and sharing  
 - 🛠️ **AI-Powered Projects** – Using tools like Gemini, VAPI, and FastAPI to build intelligent web apps  
-- 🌐 **Product Building** – Crafting fully responsive, aesthetic, and purposeful web experiences  
+- 🌐 **Product Building & Community Outreach** – Crafting web experiences + promoting AI awareness as a Perplexity Campus Partner  
 
 ---
 
@@ -130,6 +132,7 @@
 2. ✨ Redesigned my portfolio with 3D effects, glassmorphism, and blog system using React + TS  
 3. 🔥 Implemented tech card generator with image rendering, Firebase share links, and X/WhatsApp sharing  
 4. 🚀 Launched **Talk2Job** on Product Hunt  
+5. 🌍 Selected as a **Perplexity Campus Partner (Fall 2025)** representing NIE Mysuru  
 <!--END_SECTION:activity-->
 
 
