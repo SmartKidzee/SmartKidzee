@@ -10,7 +10,7 @@
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smartshreyas)
   [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SmartKidzee)
   [<img src="https://img.shields.io/badge/Talk2Job-FF5757?style=for-the-badge&logo=internetcomputer&logoColor=white" />](https://talk2job.vercel.app)
-  [<img src="https://img.shields.io/badge/Perplexity-Campus%20Partner-1F75FE?style=for-the-badge&logo=perplexity&logoColor=white" />](https://www.perplexity.ai/studentonboarding)
+  [<img src="https://img.shields.io/badge/Perplexity-Campus%20Partner-1F75FE?style=for-the-badge&logo=perplexity&logoColor=white" />](https://pplx.ai/shreyas-j)
 
 </div>
 
