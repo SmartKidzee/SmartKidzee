@@ -20,13 +20,23 @@
 
 - 🎓 **Computer Science & Engineering (AI & ML)** at **NIE Mysuru**
 - 🚀 Creator of **[Talk2Job](https://talk2job.vercel.app)** - Voice-powered-AI interview preparation platform
-- 🌍 Selected as a **Perplexity Campus Partner (Fall 2025)** – representing NIE Mysuru and building AI awareness in my community
+- 🌍 Selected as a **Perplexity Campus Partner (Fall 2025)** – representing NIE Mysuru and building AI awareness in my community  
+  👉 As part of this, I can share **early student access to [Comet Browser](https://pplx.ai/shreyas-j)** — an AI-powered browser by Perplexity. *(Highly recommend checking it out!)*  
 - 💻 Full-stack developer with a passion for **clean code** and **innovative UIs**
 - 🧪 Experimenting with **LLMs**, **Neural Networks**, and **Machine Learning**
 - 🎥 Tech content creator focusing on **coding tutorials** and **AI/ML breakdowns**
 - 🍎 Apple ecosystem enthusiast & power-user
 
-<br>
+---
+
+## 🚀 Featured Perk for Students
+
+✨ As a **Perplexity Campus Partner**, I get to share exclusive access to **[Comet Browser](https://pplx.ai/shreyas-j)** — the new AI-powered browser built for students.  
+Smarter searches ⚡ Faster workflows ⚡ Seamless AI integration.  
+
+👉 [Click here to download Comet Browser](https://pplx.ai/shreyas-j)  
+
+---
 
 ## 🛠️ Tech Stack
 
