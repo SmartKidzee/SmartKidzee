@@ -14,6 +14,6 @@ jobs:
         uses: dxnter/lastfm-readme@v1
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
-          LASTFM_USER: your-lastfm-username
+          LASTFM_USER: smarrtkidzee
           COMMIT_MESSAGE: 'chore: update last.fm stats'
           SHOW_TITLE: false
