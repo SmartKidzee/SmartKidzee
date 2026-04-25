@@ -114,9 +114,23 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 
 ---
 
-## listening to
+## what's playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=ofd42fm5wvpie5tulfxqzxrit&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00A6ED&bar_color_cover=false)](https://open.spotify.com)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" />
+
+**recently played**
+
+<!--START_LASTFM_RECENT-->
+<!--END_LASTFM_RECENT-->
+
+**top artists this week**
+
+<!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
+<!--END_LASTFM_ARTISTS-->
+
+</div>
 
 ---
 
