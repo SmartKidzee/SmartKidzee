@@ -93,7 +93,7 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmartKidzee&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy-winning.vercel.app.vercel.app/?username=SmartKidzee&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
 </div>
 
 ---
