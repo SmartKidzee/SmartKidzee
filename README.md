@@ -123,11 +123,15 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 **recently played**
 
 <!--START_LASTFM_RECENT-->
+> ∙ **[Hawa Hawa](https://www.last.fm/music/Hassan+Jahangir/_/Hawa+Hawa)** - Hassan Jahangir<br/>
+> ∙ **[Dhurandhar The Revenge - Aari Aari (From "Dhurandhar The Revenge")](https://www.last.fm/music/Shashwat+Sachdev,+Bombay+Rockers,+Irshad+Kamil,+Khan+Saab,+Reble,+Token,+Jasmine+Sandlas,+Sudhir+Yaduvanshi+&+Navtej+Singh+Rehal/_/Dhurandhar+The+Revenge+-+Aari+Aari+(From+%22Dhurandhar+The+Revenge%22))** - Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi & Navtej Singh Rehal<br/>
 <!--END_LASTFM_RECENT-->
 
 **top artists this week**
 
 <!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
+> `1 ▶️` ∙ **[Hassan Jahangir](https://www.last.fm/music/Hassan+Jahangir)**<br/>
+> `1 ▶️` ∙ **[Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi & Navtej Singh Rehal](https://www.last.fm/music/Shashwat+Sachdev,+Bombay+Rockers,+Irshad+Kamil,+Khan+Saab,+Reble,+Token,+Jasmine+Sandlas,+Sudhir+Yaduvanshi+&+Navtej+Singh+Rehal)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
