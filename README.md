@@ -1,191 +1,148 @@
-# Shreyas J <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00A6ED,100:6C3CE1&height=220&section=header&text=Shreyas%20J&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=building%20things%20that%20matter&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Tech+Content+Creator;Problem+Solver)](https://git.io/typing-svg)
 
-  <img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views badge" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00A6ED&center=true&vCenter=true&multiline=false&random=false&width=620&lines=AI%2FML+%E2%86%92+building+real+things+with+LLMs;Full+Stack+%E2%86%92+React%2C+Next.js%2C+TypeScript;Turning+ideas+into+products+that+ship;NIE+Mysuru+%7C+CS+%26+Engineering+(AI+%26+ML))](https://git.io/typing-svg)
 
-  [<img src="https://img.shields.io/badge/Portfolio-iamshreyas.live-00A6ED?style=for-the-badge&logoColor=white" />](https://iamshreyas.live)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smartshreyas)
-  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SmartKidzee)
-  [<img src="https://img.shields.io/badge/Talk2Job-FF5757?style=for-the-badge&logo=internetcomputer&logoColor=white" />](https://talk2job.vercel.app)
-  [<img src="https://img.shields.io/badge/Perplexity-Campus%20Partner-1F75FE?style=for-the-badge&logo=perplexity&logoColor=white" />](https://pplx.ai/shreyas-j)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/shreyas.cloud-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shreyas.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartshreyas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartKidzee)
+[![Talk2Job](https://img.shields.io/badge/Talk2Job-FF5757?style=for-the-badge&logo=internetcomputer&logoColor=white)](https://talk2job.vercel.app)
+[![Email](https://img.shields.io/badge/hello%40shreyas.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shreyas.cloud)
+
+<img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile+Views&color=00A6ED&style=flat-square" />
 
 </div>
-
-<img align="right" src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/coding.gif" width="300" />
-
-## 🧠 About Me
-
-- 🎓 **Computer Science & Engineering (AI & ML)** at **NIE Mysuru**
-- 🚀 Creator of **[Talk2Job](https://talk2job.vercel.app)** - Voice-powered-AI interview preparation platform
-- 🌍 Selected as a **Perplexity Campus Partner (Fall 2025)** – representing NIE Mysuru and building AI awareness in my community  
-  👉 As part of this, I can share **early student access to [Comet Browser](https://pplx.ai/shreyas-j)** — an AI-powered browser by Perplexity. *(Highly recommend checking it out!)*  
-- 💻 Full-stack developer with a passion for **clean code** and **innovative UIs**
-- 🧪 Experimenting with **LLMs**, **Neural Networks**, and **Machine Learning**
-- 🎥 Tech content creator focusing on **coding tutorials** and **AI/ML breakdowns**
-- 🍎 Apple ecosystem enthusiast & power-user
 
 ---
 
-## 🚀 Featured Perk for Students
+<img align="right" src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/coding.gif" width="280" />
 
-✨ As a **Perplexity Campus Partner**, I get to share exclusive access to **[Comet Browser](https://pplx.ai/shreyas-j)** — the new AI-powered browser built for students.  
-Smarter searches ⚡ Faster workflows ⚡ Seamless AI integration.  
+## about me
 
-👉 [Click here to download Comet Browser](https://pplx.ai/shreyas-j)  
+CS & Engineering (AI & ML) student at NIE Mysuru. I build things — mostly AI-powered web apps that actually solve problems, not just demo well.
 
----
+Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm not coding, I'm probably reverse-engineering how something works to understand it better.
 
-## 🛠️ Tech Stack
+- created **[Talk2Job](https://talk2job.vercel.app)** — voice AI interview prep platform  
+- built my portfolio at **[shreyas.cloud](https://shreyas.cloud)** with 3D, glassmorphism, and a blog  
+- obsessed with clean UIs, AI tooling, and shipping fast  
+- Apple ecosystem person through and through  
 
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C Programming](https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Tools & Platforms
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight" alt="SmartKidzee's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmartKidzee&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartKidzee&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true" width="100%" />
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/SmartKidzee/talk2job">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=SmartKidzee&repo=talk2job&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SmartKidzee/new_portfolio">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=SmartKidzee&repo=new_portfolio&theme=tokyonight" />
-  </a>
-</div>
-
-### 🧠 Talk2Job - AI Voice Interview Practice Platform
-
-<p>
-  <a href="https://talk2job.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/-Live_Demo-20BEFF?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/SmartKidzee/talk2job" target="_blank">
-    <img src="https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
-
-> A revolutionary platform that leverages AI to conduct realistic interview practice sessions with voice interaction. Users can practice for job interviews in various roles, receive real-time feedback, and improve their interview skills.
-
-**Technologies**: Next.js, React, TailwindCSS, OpenAI API, Speech Recognition, TypeScript, Vercel
-
-### 🌐 Personal Portfolio - iamshreyas.live
-
-<p>
-  <a href="https://iamshreyas.live" target="_blank">
-     <img src="https://img.shields.io/badge/-Live_Site-20BEFF?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Site" />
-  </a>
-  <a href="https://github.com/SmartKidzee/new_portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
-
-> A modern, responsive portfolio website showcasing my projects, skills, and journey in tech. Features smooth animations, dark/light mode, and interactive components.
-
-**Technologies**: React, Next.js, TailwindCSS, Framer Motion, TypeScript, Three.js
-
-## 🎯 Current Learning Focus
-
-- 🧠 **Artificial Intelligence & Machine Learning** – Exploring real-world applications using reverse engineering  
-- 💻 **Frontend Engineering** – Building modern UIs with React, Next.js, Tailwind, and TypeScript  
-- 🔥 **Firebase & Serverless** – Implementing backend-free features like auth, likes, and sharing  
-- 🛠️ **AI-Powered Projects** – Using tools like Gemini, VAPI, and FastAPI to build intelligent web apps  
-- 🌐 **Product Building & Community Outreach** – Crafting web experiences + promoting AI awareness as a Perplexity Campus Partner  
+<br clear="right"/>
 
 ---
 
-## 🎬 Recent Activities
-
-<!--START_SECTION:activity-->
-1. 🧠 Built **Talk2Job**, a voice-based AI interview prep tool using VAPI, Firebase & Next.js  
-2. ✨ Redesigned my portfolio with 3D effects, glassmorphism, and blog system using React + TS  
-3. 🔥 Implemented tech card generator with image rendering, Firebase share links, and X/WhatsApp sharing  
-4. 🚀 Launched **Talk2Job** on Product Hunt  
-5. 🌍 Selected as a **Perplexity Campus Partner (Fall 2025)** representing NIE Mysuru  
-<!--END_SECTION:activity-->
-
-
-## 📫 Get In Touch
+## what I work with
 
 <div align="center">
-  <a href="mailto:contact@iamshreyas.live">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/KidzeeSmart">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-  <a href="https://linkedin.com/in/smartshreyas">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  <a href="https://www.youtube.com/SmartKidzee">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
 
-## 💭 Favorite Dev Quotes
+### languages
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<div align="center">
-  
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
-  
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
-  
-> "First, solve the problem. Then, write the code." — John Johnson
+### stack
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 
 </div>
 
+---
+
+## projects
+
+### Talk2Job — AI Voice Interview Platform
+> Voice-powered AI interviews. Real feedback. Built with VAPI, Firebase, Next.js & TypeScript.
+
+[![Live](https://img.shields.io/badge/Live_Demo-20BEFF?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://talk2job.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartKidzee/talk2job)
+
+---
+
+### shreyas.cloud — Portfolio v2
+> 3D effects, glassmorphism, dark/light mode, blog system, smooth as butter.
+
+[![Live](https://img.shields.io/badge/Live_Site-20BEFF?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://shreyas.cloud)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartKidzee/new_portfoliov2)
+
+---
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SmartKidzee&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
+</div>
+
+---
+
+## activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartKidzee&bg_color=0d1117&color=00A6ED&line=6C3CE1&point=00A6ED&area=true&hide_border=true" width="100%" />
+
+---
+
+## contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+## listening to
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=ofd42fm5wvpie5tulfxqzxrit&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00A6ED&bar_color_cover=false)](https://open.spotify.com)
+
+---
+
+## find me elsewhere
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KidzeeSmart)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/SmartKidzee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smartshreyas)
+[![Email](https://img.shields.io/badge/hello%40shreyas.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shreyas.cloud)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/wave.svg" width="100%" />
-  <br><br>
-  
-  **Thanks for visiting my profile! Have a great day!** 😄
-  
-![Snake animation](https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg)
+
+### also check out my **other** github — where the meme-coded but real projects live
+
+[![labmannie](https://img.shields.io/badge/github.com%2Flabmannie-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6C3CE1)](https://github.com/labmannie)
+
+*the chaotic side of the lab. actual projects, less polish, more soul.*
+
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,50:00A6ED,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%" />
