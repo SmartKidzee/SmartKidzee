@@ -123,10 +123,11 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 **top artists this week**
 
 <!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
+> `2 ▶️` ∙ **[Shashwat Sachdev, Arijit Singh & Irshad Kamil](https://www.last.fm/music/Shashwat+Sachdev,+Arijit+Singh+&+Irshad+Kamil)**<br/>
 > `1 ▶️` ∙ **[Hassan Jahangir](https://www.last.fm/music/Hassan+Jahangir)**<br/>
 > `1 ▶️` ∙ **[Post Malone](https://www.last.fm/music/Post+Malone)**<br/>
+> `1 ▶️` ∙ **[Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya](https://www.last.fm/music/Sachin-Jigar,+Vishal+Dadlani,+Mellow+D+&+Jigar+Saraiya)**<br/>
 > `1 ▶️` ∙ **[Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi & Navtej Singh Rehal](https://www.last.fm/music/Shashwat+Sachdev,+Bombay+Rockers,+Irshad+Kamil,+Khan+Saab,+Reble,+Token,+Jasmine+Sandlas,+Sudhir+Yaduvanshi+&+Navtej+Singh+Rehal)**<br/>
-> `1 ▶️` ∙ **[Young the Giant](https://www.last.fm/music/Young+the+Giant)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
