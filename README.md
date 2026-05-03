@@ -123,7 +123,7 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 **top artists this week**
 
 <!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
-> `1 ▶️` ∙ **[Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya](https://www.last.fm/music/Sachin-Jigar,+Vishal+Dadlani,+Mellow+D+&+Jigar+Saraiya)**<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ARTISTS-->
 
 </div>
