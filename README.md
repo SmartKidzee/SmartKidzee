@@ -126,7 +126,6 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 > `10 ▶️` ∙ **[Shashwat Sachdev, Arijit Singh & Irshad Kamil](https://www.last.fm/music/Shashwat+Sachdev,+Arijit+Singh+&+Irshad+Kamil)**<br/>
 > `1 ▶️` ∙ **[Billy Joel](https://www.last.fm/music/Billy+Joel)**<br/>
 > `1 ▶️` ∙ **[Iacovos Argyrides](https://www.last.fm/music/Iacovos+Argyrides)**<br/>
-> `1 ▶️` ∙ **[Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya](https://www.last.fm/music/Sachin-Jigar,+Vishal+Dadlani,+Mellow+D+&+Jigar+Saraiya)**<br/>
 > `1 ▶️` ∙ **[The Surfaris](https://www.last.fm/music/The+Surfaris)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
