@@ -124,9 +124,6 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 
 <!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
 > `4 ▶️` ∙ **[Shashwat Sachdev](https://www.last.fm/music/Shashwat+Sachdev)**<br/>
-> `1 ▶️` ∙ **[Anand-Milind](https://www.last.fm/music/Anand-Milind)**<br/>
-> `1 ▶️` ∙ **[Javed Ali](https://www.last.fm/music/Javed+Ali)**<br/>
-> `1 ▶️` ∙ **[Las Ketchup](https://www.last.fm/music/Las+Ketchup)**<br/>
 > `1 ▶️` ∙ **[Rick Astley](https://www.last.fm/music/Rick+Astley)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
