@@ -123,7 +123,7 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 **top artists this week**
 
 <!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
-> `4 ▶️` ∙ **[Shashwat Sachdev](https://www.last.fm/music/Shashwat+Sachdev)**<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ARTISTS-->
 
 </div>
