@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00A6ED,100:6C3CE1&height=220&section=header&text=Shreyas%20J&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=building%20things%20that%20matter&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/header.svg" width="100%" alt="Shreyas J" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00A6ED&center=true&vCenter=true&multiline=false&random=false&width=620&lines=AI%2FML+%E2%86%92+building+real+things+with+LLMs;Full+Stack+%E2%86%92+React%2C+Next.js%2C+TypeScript;Turning+ideas+into+products+that+ship;NIE+Mysuru+%7C+CS+%26+Engineering+(AI+%26+ML))](https://git.io/typing-svg)
 
@@ -26,10 +26,10 @@ CS & Engineering (AI & ML) student at NIE Mysuru. I build things — mostly AI-p
 
 Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm not coding, I'm probably reverse-engineering how something works to understand it better.
 
-- created **[Talk2Job](https://talk2job.vercel.app)** — voice AI interview prep platform  
-- built my portfolio at **[shreyas.cloud](https://shreyas.cloud)** with 3D, glassmorphism, and a blog  
-- obsessed with clean UIs, AI tooling, and shipping fast  
-- Apple ecosystem person through and through  
+- created **[Talk2Job](https://talk2job.vercel.app)** — voice AI interview prep platform
+- built my portfolio at **[shreyas.cloud](https://shreyas.cloud)** with 3D, glassmorphism, and a blog
+- obsessed with clean UIs, AI tooling, and shipping fast
+- Apple ecosystem person through and through
 
 <br clear="right"/>
 
@@ -83,6 +83,8 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 
 ---
 
+## stats
+
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -93,7 +95,7 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app.vercel.app/?username=SmartKidzee&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SmartKidzee&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=12" />
 </div>
 
 ---
@@ -119,12 +121,6 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 <div align="center">
 
 [![Last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=smarrtkidzee&count=5&width=480&loved=true&show_user=header&header_style=normal_stats&footer_style=wave&bg_color=1a1b27&border_radius=12)](https://www.last.fm/user/smarrtkidzee)
-
-**top artists this week**
-
-<!--START_LASTFM_ARTISTS:{"period":"7day","rows":5}-->
-No listening data found for the selected time period.
-<!--END_LASTFM_ARTISTS-->
 
 </div>
 
