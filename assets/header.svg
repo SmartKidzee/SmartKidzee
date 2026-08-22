@@ -1,0 +1,139 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#0b1e33;#1a0d33;#0d1117" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#0f2942">
+        <animate attributeName="stop-color" values="#0f2942;#13284a;#3a1568;#0f2942" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1a0d33">
+        <animate attributeName="stop-color" values="#1a0d33;#0d1117;#0b1e33;#1a0d33" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="textGrad" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#00A6ED"/>
+      <stop offset="50%" stop-color="#e6d8ff"/>
+      <stop offset="100%" stop-color="#6C3CE1"/>
+      <animate attributeName="x1" values="-400;1400;-400" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1800;0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="roundedBg">
+      <rect width="1000" height="260" rx="18" ry="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundedBg)">
+    <rect width="1000" height="260" fill="url(#bgGrad)"/>
+
+    <circle cx="60" cy="240" r="2.4" fill="#00A6ED">
+      <animate attributeName="cy" values="240;-10" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="240" r="2.4" fill="#6C3CE1">
+      <animate attributeName="cy" values="240;-10" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="240" r="2.4" fill="#00A6ED">
+      <animate attributeName="cy" values="240;-10" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="240" r="2.4" fill="#6C3CE1">
+      <animate attributeName="cy" values="240;-10" dur="6s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="240" r="2.4" fill="#00A6ED">
+      <animate attributeName="cy" values="240;-10" dur="6s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="240" r="2.4" fill="#6C3CE1">
+      <animate attributeName="cy" values="240;-10" dur="6s" begin="3.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="3.0s" repeatCount="indefinite"/>
+    </circle>
+
+    <path d="M0,215 Q250,195 500,215 T1000,215" fill="none" stroke="#00A6ED" stroke-opacity="0.22" stroke-width="2">
+      <animate attributeName="d"
+        values="M0,215 Q250,195 500,215 T1000,215;
+                M0,215 Q250,235 500,215 T1000,215;
+                M0,215 Q250,195 500,215 T1000,215"
+        dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,225 Q300,210 600,225 T1000,220" fill="none" stroke="#6C3CE1" stroke-opacity="0.18" stroke-width="2">
+      <animate attributeName="d"
+        values="M0,225 Q300,210 600,225 T1000,220;
+                M0,225 Q300,240 600,225 T1000,220;
+                M0,225 Q300,210 600,225 T1000,220"
+        dur="7s" repeatCount="indefinite"/>
+    </path>
+
+    <text x="500" y="118" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="66" font-weight="700" fill="url(#textGrad)" filter="url(#glow)">
+      Shreyas J
+    </text>
+
+    <text font-family="'Fira Code', 'Courier New', monospace" font-size="20" fill="#c9d1d9">
+      <tspan x="196.2" y="172" opacity="0">b<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.006;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="208.6" y="172" opacity="0">u<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.013;0.019;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="221.0" y="172" opacity="0">i<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.025;0.031;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="233.4" y="172" opacity="0">l<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.038;0.044;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="245.8" y="172" opacity="0">d<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.051;0.057;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="258.2" y="172" opacity="0">i<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.063;0.069;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="270.6" y="172" opacity="0">n<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.076;0.082;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="283.0" y="172" opacity="0">g<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.089;0.095;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="295.4" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.101;0.107;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="307.8" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.114;0.120;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="320.2" y="172" opacity="0">h<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.127;0.133;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="332.6" y="172" opacity="0">i<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.139;0.145;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="345.0" y="172" opacity="0">n<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.152;0.158;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="357.4" y="172" opacity="0">g<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.164;0.170;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="369.8" y="172" opacity="0">s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.177;0.183;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="382.2" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.190;0.196;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="394.6" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.202;0.208;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="407.0" y="172" opacity="0">h<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.215;0.221;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="419.4" y="172" opacity="0">a<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.228;0.234;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="431.8" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.240;0.246;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="444.2" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.253;0.259;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="456.6" y="172" opacity="0">m<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.266;0.272;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="469.0" y="172" opacity="0">a<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.278;0.284;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="481.4" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.291;0.297;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="493.8" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.304;0.310;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="506.2" y="172" opacity="0">e<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.316;0.322;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="518.6" y="172" opacity="0">r<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.329;0.335;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="531.0" y="172" opacity="0">,<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.342;0.348;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="543.4" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.354;0.360;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="555.8" y="172" opacity="0">o<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.367;0.373;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="568.2" y="172" opacity="0">n<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.380;0.386;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="580.6" y="172" opacity="0">e<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.392;0.398;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="593.0" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.405;0.411;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="605.4" y="172" opacity="0">c<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.418;0.424;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="617.8" y="172" opacity="0">o<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.430;0.436;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="630.2" y="172" opacity="0">m<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.443;0.449;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="642.6" y="172" opacity="0">m<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.456;0.462;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="655.0" y="172" opacity="0">i<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.468;0.474;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="667.4" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.481;0.487;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="679.8" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.493;0.499;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="692.2" y="172" opacity="0">a<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.506;0.512;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="704.6" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.519;0.525;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="717.0" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.531;0.537;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="729.4" y="172" opacity="0">a<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.544;0.550;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="741.8" y="172" opacity="0">&#160;<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.557;0.563;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="754.2" y="172" opacity="0">t<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.569;0.575;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="766.6" y="172" opacity="0">i<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.582;0.588;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="779.0" y="172" opacity="0">m<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.595;0.601;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+      <tspan x="791.4" y="172" opacity="0">e<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.607;0.613;0.860;0.980;1" dur="9.0s" repeatCount="indefinite"/></tspan>
+    </text>
+
+    <rect x="807.8" y="152" width="11" height="22" fill="#00A6ED">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
