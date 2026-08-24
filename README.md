@@ -85,6 +85,17 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 
 ## stats
 
+<!--
+  NOTE: github-readme-stats.vercel.app is the SHARED public instance run by the
+  original maintainer. It has been repeatedly paused / rate-limited (503
+  DEPLOYMENT_PAUSED, "API rate limit exceeded") since Jan 2026 because
+  thousands of profiles hit the same free-tier quota. This is not fixable
+  from the README side — the fix is deploying your own instance (5 min, free,
+  your own quota). Steps are in the chat reply. Once deployed, replace
+  "github-readme-stats.vercel.app" below with your own deployment URL, e.g.
+  "github-readme-stats-smartkidzee.vercel.app", and it will never go down
+  from someone else's traffic again.
+-->
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -104,9 +115,9 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SmartKidzee?colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16)](https://leetcode.com/SmartKidzee)
-
-<img width="96%" src="https://leetcard.jacoblin.cool/SmartKidzee?ext=heatmap&colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16" />
+<a href="https://leetcode.com/SmartKidzee" target="_blank">
+  <img width="96%" src="https://leetcard.jacoblin.cool/SmartKidzee?ext=heatmap&colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16&width=900&height=380" />
+</a>
 
 </div>
 
