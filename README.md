@@ -100,6 +100,18 @@ Currently deep in **LLMs, neural nets, and full-stack product work**. When I'm n
 
 ---
 
+## leetcode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SmartKidzee?colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16)](https://leetcode.com/SmartKidzee)
+
+<img width="96%" src="https://leetcard.jacoblin.cool/SmartKidzee?ext=heatmap&colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16" />
+
+</div>
+
+---
+
 ## activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartKidzee&bg_color=0d1117&color=00A6ED&line=6C3CE1&point=00A6ED&area=true&hide_border=true" width="100%" />
