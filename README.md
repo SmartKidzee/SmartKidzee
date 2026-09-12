@@ -40,9 +40,6 @@
 
 <img width="96%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SmartKidzee&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=12" />
-
 <br>
 <br>
 
@@ -54,13 +51,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br>
-<br>
-
-<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-activity.svg" alt="activity" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartKidzee&bg_color=0d1117&color=00A6ED&line=6C3CE1&point=00A6ED&area=true&hide_border=true" width="100%" />
 
 <br>
 <br>
