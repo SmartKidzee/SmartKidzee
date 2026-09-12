@@ -11,11 +11,39 @@
 </table>
 
 <br>
+
+<p><b>Gen AI Student Developer · AI Systems Builder · Junior CS (AI & ML) @ NIE Mysuru</b></p>
+
+<h3><code>SmartKidzee@github ~ $ ./links.sh</code></h3>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyas.cloud-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shreyas.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-smartshreyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartshreyas)
+[![GitHub](https://img.shields.io/badge/GitHub-SmartKidzee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartKidzee)
+[![X](https://img.shields.io/badge/X-KidzeeSmart-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KidzeeSmart)
+[![YouTube](https://img.shields.io/badge/YouTube-SmartKidzee-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/SmartKidzee)
+[![Email](https://img.shields.io/badge/hello%40shreyas.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shreyas.cloud)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile+Views&color=00A6ED&style=flat-square" />
+
+<br>
 <br>
 
 <!-- stats section -->
 <h3><code>SmartKidzee@github ~ $ ./stats.sh</code></h3>
 
+<!--
+  github-readme-stats.vercel.app is the SHARED public instance. It has been
+  repeatedly rate-limited / paused (503 DEPLOYMENT_PAUSED) since Jan 2026
+  because thousands of profiles hit the same free-tier quota — this is a
+  known, ongoing issue on the maintainer's side, not a config problem here.
+  The permanent fix is deploying your own instance on your own Vercel account
+  with your own GitHub token (5 min, free — ask if you want the walkthrough
+  again). Once deployed, swap "github-readme-stats.vercel.app" below for your
+  own domain, e.g. "github-readme-stats-smartkidzee.vercel.app", in BOTH the
+  stats card and the top-langs card, and it stops depending on shared quota.
+-->
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
@@ -38,22 +66,6 @@
   <img alt="github contribution grid snake animation" src="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<br>
-<br>
-
-<h3><code>SmartKidzee@github ~ $ ./links.sh</code></h3>
-
-<p><b>Gen AI Student Developer · AI Systems Builder · Junior CS (AI & ML) @ NIE Mysuru</b></p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-shreyas.cloud-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shreyas.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-smartshreyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartshreyas)
-[![GitHub](https://img.shields.io/badge/GitHub-SmartKidzee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartKidzee)
-[![X](https://img.shields.io/badge/X-KidzeeSmart-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KidzeeSmart)
-[![YouTube](https://img.shields.io/badge/YouTube-SmartKidzee-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/SmartKidzee)
-[![Email](https://img.shields.io/badge/hello%40shreyas.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shreyas.cloud)
-
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile+Views&color=00A6ED&style=flat-square" />
 <br>
 <br>
 
