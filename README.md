@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Shreyas J — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.sv" width="490" alt="Shreyas J — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="Shreyas J — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
