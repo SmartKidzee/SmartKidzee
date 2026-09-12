@@ -33,8 +33,8 @@
 <!-- stats section -->
 <img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-stats.svg" alt="stats" />
 
-<img height="175em" src="https://github-readme-stats-git-master-shreyasworks.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="175em" src="https://github-readme-stats-git-master-shreyasworks.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="175em" src="https://github-readme-stats-zeta-silk.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="175em" src="https://github-readme-stats-zeta-silk.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br><br>
 
