@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait alongside 3D ASCII wordmark -->
-### whoami
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-whoami.svg" alt="whoami" />
 
 <table>
 <tr>
@@ -14,7 +14,7 @@
 
 <p><b>Gen AI Student Developer · AI Systems Builder · Junior CS (AI & ML) @ NIE Mysuru</b></p>
 
-### links
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-links.svg" alt="links" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shreyas.cloud-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shreyas.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smartshreyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartshreyas)
@@ -31,20 +31,10 @@
 <br>
 
 <!-- stats section -->
-### stats
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-stats.svg" alt="stats" />
 
-<!--
-  github-readme-stats.vercel.app is the SHARED public instance. It has been
-  repeatedly rate-limited / paused (503 DEPLOYMENT_PAUSED) since Jan 2026
-  because thousands of profiles hit the same free-tier quota — this is a
-  known, ongoing issue on the maintainer's side, not a config problem here.
-  The permanent fix is deploying your own instance on your own Vercel account
-  with your own GitHub token. Once deployed, swap "github-readme-stats.vercel.app"
-  below for your own domain, e.g. "github-readme-stats-smartkidzee.vercel.app",
-  in BOTH the stats card and the top-langs card.
--->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="175em" src="https://github-readme-stats-git-master-shreyasworks.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="175em" src="https://github-readme-stats-git-master-shreyasworks.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br><br>
 
@@ -57,7 +47,7 @@
 <br>
 
 <!-- animated contribution graph -->
-### contributions
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-contributions.svg" alt="contributions" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -68,14 +58,14 @@
 <br>
 <br>
 
-### activity
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-activity.svg" alt="activity" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartKidzee&bg_color=0d1117&color=00A6ED&line=6C3CE1&point=00A6ED&area=true&hide_border=true" width="100%" />
 
 <br>
 <br>
 
-### leetcode
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-leetcode.svg" alt="leetcode" />
 
 <a href="https://leetcode.com/SmartKidzee" target="_blank">
   <img width="96%" src="https://leetcard.jacoblin.cool/SmartKidzee?ext=heatmap&colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16&width=900&height=380" alt="LeetCode Stats" />
