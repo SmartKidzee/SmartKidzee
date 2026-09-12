@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait alongside 3D ASCII wordmark -->
-<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-whoami.svg" alt="whoami" />
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-whoami.svg?v=2" alt="whoami" />
 
 <table>
 <tr>
@@ -10,11 +9,13 @@
 </tr>
 </table>
 
-<br>
+<br/>
 
 <p><b>Gen AI Student Developer · AI Systems Builder · Junior CS (AI & ML) @ NIE Mysuru</b></p>
 
-<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-links.svg" alt="links" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-links.svg?v=2" alt="links" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shreyas.cloud-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shreyas.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smartshreyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smartshreyas)
@@ -23,28 +24,26 @@
 [![YouTube](https://img.shields.io/badge/YouTube-SmartKidzee-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/SmartKidzee)
 [![Email](https://img.shields.io/badge/hello%40shreyas.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shreyas.cloud)
 
-<br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile+Views&color=00A6ED&style=flat-square" />
 
-<br>
-<br>
+<br/>
+<br/>
 
-<!-- stats section -->
-<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-stats.svg" alt="stats" />
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-stats.svg?v=2" alt="stats" />
 
 <img height="175em" src="https://github-readme-stats-zeta-silk.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
 <img height="175em" src="https://github-readme-stats-zeta-silk.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<br><br>
+<br/>
 
 <img width="96%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<br>
-<br>
+<br/>
+<br/>
 
-<!-- animated contribution graph -->
-<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-contributions.svg" alt="contributions" />
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-contributions.svg?v=2" alt="contributions" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -52,22 +51,17 @@
   <img alt="github contribution grid snake animation" src="https://github.com/SmartKidzee/SmartKidzee/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<br>
-<br>
+<br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-leetcode.svg" alt="leetcode" />
+<img src="https://raw.githubusercontent.com/SmartKidzee/SmartKidzee/main/assets/heading-leetcode.svg?v=2" alt="leetcode" />
 
 <a href="https://leetcode.com/SmartKidzee" target="_blank">
   <img width="96%" src="https://leetcard.jacoblin.cool/SmartKidzee?ext=heatmap&colors=0d1117,161b22,ffffff,c9d1d9,00A6ED,6C3CE1,00b4d8,90e0ef&font=Fira_Code&animation=true&border=0&radius=16&width=900&height=380" alt="LeetCode Stats" />
 </a>
 
-<br>
-
-</div>
-
----
-
-<div align="center">
+<br/>
+<br/>
 
 ### also check out my **other** github — where the meme-coded but real projects live
 
@@ -75,8 +69,8 @@
 
 *the chaotic side of the lab. actual projects, less polish, more soul.*
 
-</div>
-
----
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,50:00A6ED,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%" />
+
+</div>
