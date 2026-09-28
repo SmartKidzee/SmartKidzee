@@ -5,21 +5,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,50:00A6ED,100:0d1117&height=130&section=header&animation=twinkling" width="100%" alt="Header" />
 </p>
 
-<!-- Identity Header Animation -->
+<!-- Identity Header Animation: Shreyas J Loop Only -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=54&duration=2000&pause=1000&color=00A6ED&center=true&vCenter=true&width=560&height=75&lines=Shreyas+J;Forward+Deployed+Builder" alt="Shreyas J" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=58&duration=2200&pause=1800&color=00A6ED&center=true&vCenter=true&width=450&height=85&repeat=true&letterSpacing=1px&lines=Shreyas+J" alt="Shreyas J" />
 </p>
 
 <!-- Dynamic Subtitle Terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=820&height=48&lines=Upcoming+Forward+Deployed+Engineer;Shipping+GenAI+Inside+Real-World+Workflows;LLM+Architectures+%C2%B7+Gemini+API+%C2%B7+Vertex+AI;Still+learning.+Relentlessly+building." alt="Upcoming Forward Deployed Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=820&height=48&lines=Upcoming+Forward+Deployed+Engineer;Shipping+GenAI+Inside+Real-World+Workflows;LLM+Architectures+%C2%B7+Gemini+API+%C2%B7+Vertex+AI;Still+learning.+Relentlessly+building." alt="Role Subtitles" />
 </p>
 
 <br/>
 
-<!-- ==================== 01 : IDENTITY & RADAR ==================== -->
+<!-- ==================== 01 : IDENTITY (TERMINAL SHELL VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%E2%9A%A1+SYSTEM+IDENTITY+%26+RADAR;%3E_DISCOVERING+CAPABILITIES" alt="System Identity & Radar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=1200&color=00FF9D&center=true&vCenter=true&width=560&height=40&letterSpacing=2px&lines=%3E_root%40shreyas%3A~%24+whoami+--verbose;%5BSTATUS%5D+SYSTEMS_ONLINE" alt="Terminal Whoami" />
 </p>
 
 <table>
@@ -35,9 +35,9 @@
 
 <br/>
 
-<!-- ==================== 02 : TECHNICAL ARSENAL ==================== -->
+<!-- ==================== 02 : TECH ARSENAL (CYBER DECK VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNICAL+ARSENAL;%3E_AI+SYSTEMS+%26+INFRASTRUCTURE" alt="Technical Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=40&letterSpacing=4px&lines=%E2%9A%A1+ARCHITECTURAL+ARSENAL;%2F%2F+CORE_TECH_STACK_LOADED" alt="Architectural Arsenal" />
 </p>
 
 <!-- Live Animated Stack Cycling Ticker -->
@@ -62,9 +62,9 @@
 
 <br/>
 
-<!-- ==================== 03 : NETWORK & CHANNELS ==================== -->
+<!-- ==================== 03 : NETWORK (TRANSMISSION SATELLITE VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%F0%9F%93%A1+NETWORK+%26+TRANSMISSIONS;%3E_INITIALIZING+CONNECTION" alt="Network & Transmissions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2000&pause=1400&color=00A6ED&center=true&vCenter=true&width=550&height=40&letterSpacing=5px&lines=%5B+COMM_LINKS+%2F%2F+CHANNELS+%5D;BROADCASTING+SIGNAL..." alt="Comm Links" />
 </p>
 
 <p align="center">
@@ -78,32 +78,32 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile+Telemetric+Views&color=00A6ED&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SmartKidzee&label=Profile+Views&color=00A6ED&style=flat-square" alt="profile views" />
 </p>
 
 <br/>
 
-<!-- ==================== 04 : TELEMETRY & REPOS ==================== -->
+<!-- ==================== 04 : TELEMETRY (HUD METRICS VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%F0%9F%93%8A+TELEMETRY+%26+METRICS;%3E_STREAMING+LIVE+ACTIVITY" alt="Telemetry & Metrics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=2200&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&height=40&letterSpacing=3px&lines=%3E%3E+LIVE_TELEMETRY.LOG;SYNCED%3A+CONTINUOUS_INTEGRATION" alt="Live Telemetry" />
 </p>
 
-<!-- Working Custom Vercel Stats -->
+<!-- Working Self-Hosted Vercel Stats -->
 <p align="center">
   <img height="175em" src="https://github-readme-stats-zeta-silk.vercel.app/api?username=SmartKidzee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img height="175em" src="https://github-readme-stats-zeta-silk.vercel.app/api/top-langs/?username=SmartKidzee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
-<!-- Animated Streak -->
+<!-- Animated Streak Flame -->
 <p align="center">
-  <img width="96%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution Streak" />
+  <img width="96%" src="https://streak-stats.demolab.com?user=SmartKidzee&theme=tokyonight&hide_border=true&background=0d1117&ring=00A6ED&fire=8B5CF6&currStreakLabel=00A6ED" alt="Contribution Streak" />
 </p>
 
 <br/>
 
-<!-- ==================== 05 : COMMIT VELOCITY & SNAKE ==================== -->
+<!-- ==================== 05 : COMMIT SNAKE (RETRO ARCADE PIXEL VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%F0%9F%93%88+CONTRIBUTION+VELOCITY;%3E_FEEDING+THE+GRID+SNAKE" alt="Contribution Velocity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=16&duration=2000&pause=1200&color=22C55E&center=true&vCenter=true&width=560&height=40&letterSpacing=2px&lines=STAGE+01%3A+FEED+THE+COMMIT+SNAKE+%F0%9F%90%8D;BONUS+EXP%3A+DAILY+SHIPMENT" alt="Arcade Snake" />
 </p>
 
 <p align="center">
@@ -116,9 +116,9 @@
 
 <br/>
 
-<!-- ==================== 06 : ALGORITHMIC COMBAT ==================== -->
+<!-- ==================== 06 : LEETCODE (ALGORITHMIC ARENA VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%F0%9F%A7%A9+ALGORITHMIC+ARENA;%3E_LEETCODE+HEATMAP+%26+BENCHMARKS" alt="Algorithmic Arena" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1000&color=FFA116&center=true&vCenter=true&width=620&height=40&letterSpacing=2px&lines=COMPLEXITY%3A+O(1)+OPTIMAL;LEETCODE+HEATMAP+%26+BENCHMARKS" alt="Algorithmic Arena" />
 </p>
 
 <p align="center">
@@ -129,9 +129,9 @@
 
 <br/>
 
-<!-- ==================== 07 : THE EXPERIMENTAL LAB ==================== -->
+<!-- ==================== 07 : EXPERIMENTAL LAB (PUNK / HACKER VIBE) ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2400&pause=1000&color=00A6ED&center=true&vCenter=true&width=500&height=40&letterSpacing=4px&lines=%F0%9F%A7%AA+THE+EXPERIMENTAL+LAB;%3E_UNFILTERED+PROTOTYPES+%26+CODE" alt="The Experimental Lab" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=2000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&height=40&letterSpacing=3px&lines=%3E%3E+CAUTION%3A+THE+EXPERIMENTAL+LAB+%5BLAB_MANNIE%5D;PROTOTYPES+%C2%B7+MEME_CODED+%C2%B7+RAW" alt="Experimental Lab" />
 </p>
 
 <p align="center">
